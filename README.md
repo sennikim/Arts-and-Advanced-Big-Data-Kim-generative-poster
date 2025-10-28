@@ -1,7 +1,7 @@
 
-# Web-based Generative Poster (Week 4 & 5 → Week 9)
+# Web-based Generative Poster 
 
-This Streamlit app turns your Week 4/5 generative posters into a **web app**.
+This Streamlit app turns your generative posters into a **web app**.
 
 ## How to run locally
 ```bash
